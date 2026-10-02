@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  SUBSCRIPTION-ID: 041bbdd0-727b-49f4-8a05-2c9f440ec8d1
+  WEBAPP-NAME: eshoponweb-webapp-eshoponweb-webapp65776727
 
 jobs:
   #Build, test and publish .net web project in repository
